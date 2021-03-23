@@ -1,0 +1,729 @@
+
+/* apply responsive */
+
+
+@media (max-width: 1199.98px) {
+    
+}
+
+@media (max-width: 991.98px) {
+
+}
+
+@media (max-width: 767.98px) {
+ /* banner part */
+ .banner-overlay {
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.banner-heading h3 {
+    font-size: 25px;
+}
+/* banner part */
+/* navbar part*/
+.navbar-toggler-icon i{
+   color: #fff;
+   border: 1px solid yellow;
+   padding: 5px 5px;
+   border-radius: 3px;
+}
+
+.navbar-toggler:focus{
+  outline: none;
+}
+/* navbar part*/
+/* group part*/
+#group {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+/* group part*/
+/* showcase part*/
+#showcase {
+    padding-top: 50px;
+}
+.showcase-text h3 {
+    font-size: 20px;
+}
+.showcase-text a {
+    font-size: 13px;
+    padding: 10px 20px;
+}
+/* showcase part*/
+/* bird part*/
+.bird-overlay {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.bird-items h4 {
+    font-size: 18px;
+}
+/* bird part*/
+/* team part*/
+#team {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.team-photo{
+  margin: 0 50px;
+}
+.team-photo-text{
+ margin-right: -5px;
+}
+
+/* team part*/
+/* skill  part*/
+.skill-overlay {
+padding-top: 50px;
+padding-bottom: 50px;
+}
+.experience{
+float: left;
+}
+
+.experience-bar {
+width: 300px;
+float: right;
+padding: 1px 3px;
+}
+.severals{
+  margin-top: -185px;
+}
+.skill-btn a {
+font-size: 15px;
+padding: 5px 15px;
+}
+.skill-text p {
+width: 100%;
+ }
+ .contact-text p {
+    width: 100%;
+}
+/* skill  part*/
+/* service */
+#service {
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+.service-content h3 {
+font-size: 20px;
+padding-left: 50px;
+}
+
+.service-gap{
+   margin-top: 40px;
+}
+.service-text p{
+   width: 100%;
+}
+/* service */
+/* gallery */
+.gallery-para p {
+width: 100%;
+font-size: 15px;
+}
+/* gallery */
+/* portfolio */
+#portfolio {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.portfolio-content h3 {
+    font-size: 20px;
+}
+.portfolio-menu button {
+    padding-right: 9px;
+    padding-top: 15px;
+    padding-bottom: 50px;
+}
+.portfoilo-items {
+    margin: 0 auto;
+}
+.portfolio-gap-two{
+    margin-top: 40px;
+}
+
+#loggo {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+/* portfolio */
+/* blog */
+#blog {
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+.blog-text p {
+    width: 100%;
+}
+/* blog */
+/* contact */
+.contact-form h3 {
+    padding-bottom: 5px;
+    padding-top: 60px;
+}
+.contact-form .box-one {
+    width: 100%;
+}
+
+.contact-form .box-two {
+    width: 100%;
+}
+
+.contact-form textarea {
+    width: 100%;
+}
+.contact-form-btn a {
+    width:100%;
+}
+#contact {
+    padding-top: 45px;
+    padding-bottom: 50px;
+}
+/* contact */
+/* footer */
+.footer-icon i{
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    margin-right: 30px;
+  }
+/* footer */
+}
+
+@media (max-width: 575.98px) {
+    /* banner part */
+    .banner-overlay {
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+    .banner-heading h3 {
+        font-size: 25px;
+    }
+    /* banner part */
+    /* navbar part*/
+    .navbar-toggler-icon i{
+       color: #fff;
+       border: 1px solid yellow;
+       padding: 5px 5px;
+       border-radius: 3px;
+    }
+
+    .navbar-toggler:focus{
+      outline: none;
+    }
+    /* navbar part*/
+    /* group part*/
+    #group {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    /* group part*/
+    /* showcase part*/
+    #showcase {
+        padding-top: 50px;
+    }
+    .showcase-text h3 {
+        font-size: 20px;
+    }
+    .showcase-text a {
+        font-size: 13px;
+        padding: 10px 20px;
+    }
+    /* showcase part*/
+    /* bird part*/
+    .bird-overlay {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .bird-items h4 {
+        font-size: 18px;
+    }
+    /* bird part*/
+    /* team part*/
+    #team {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .team-photo{
+      margin: 0 50px;
+    }
+    .team-photo-text{
+     margin-right: -5px;
+    }
+
+    /* team part*/
+   /* skill  part*/
+   .skill-overlay {
+	padding-top: 50px;
+	padding-bottom: 50px;
+   }
+   .experience{
+   float: left;
+   }
+
+   .experience-bar {
+	width: 300px;
+	float: right;
+    padding: 1px 3px;
+  }
+  .severals{
+      margin-top: -185px;
+  }
+  .skill-btn a {
+	font-size: 15px;
+	padding: 5px 15px;
+  }
+  .skill-text p {
+	width: 100%;
+     }
+     .contact-text p {
+        width: 100%;
+    }
+   /* skill  part*/
+   /* service */
+   #service {
+	padding-top: 50px;
+	padding-bottom: 50px;
+   }
+
+   .service-content h3 {
+	font-size: 20px;
+    padding-left: 50px;
+   }
+    
+   .service-gap{
+       margin-top: 40px;
+   }
+   .service-text p{
+       width: 100%;
+   }
+   /* service */
+   /* gallery */
+   .gallery-para p {
+	width: 100%;
+    font-size: 15px;
+   }
+   /* gallery */
+    /* portfolio */
+    #portfolio {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .portfolio-content h3 {
+        font-size: 20px;
+    }
+    .portfolio-menu button {
+        padding-right: 9px;
+        padding-top: 15px;
+        padding-bottom: 50px;
+    }
+    .portfoilo-items {
+        margin: 0 auto;
+    }
+    .portfolio-gap-two{
+        margin-top: 40px;
+    }
+
+    #loggo {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    /* portfolio */
+    /* blog */
+    #blog {
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+    .blog-text p {
+        width: 100%;
+    }
+    /* blog */
+    /* contact */
+    .contact-form h3 {
+        padding-bottom: 5px;
+        padding-top: 60px;
+    }
+    .contact-form .box-one {
+        width: 100%;
+    }
+
+    .contact-form .box-two {
+        width: 100%;
+    }
+
+    .contact-form textarea {
+        width: 100%;
+    }
+    .contact-form-btn a {
+        width:100%;
+    }
+    #contact {
+        padding-top: 45px;
+        padding-bottom: 50px;
+    }
+    /* contact */
+    /* footer */
+    .footer-icon i{
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+        margin-right: 30px;
+      }
+    /* footer */
+
+}
+
+@media (max-width: 320px) {
+    /* banner part */
+    .banner-overlay {
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+    .banner-heading h3 {
+        font-size: 25px;
+    }
+    /* banner part */
+    /* navbar part*/
+    .navbar-toggler-icon i{
+       color: #fff;
+       border: 1px solid yellow;
+       padding: 5px 5px;
+       border-radius: 3px;
+    }
+
+    .navbar-toggler:focus{
+      outline: none;
+    }
+    /* navbar part*/
+    /* group part*/
+    #group {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    /* group part*/
+    /* showcase part*/
+    #showcase {
+        padding-top: 50px;
+    }
+    .showcase-text h3 {
+        font-size: 20px;
+    }
+    .showcase-text a {
+        font-size: 13px;
+        padding: 10px 20px;
+    }
+    /* showcase part*/
+    /* bird part*/
+    .bird-overlay {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .bird-items h4 {
+        font-size: 18px;
+    }
+    /* bird part*/
+    /* team part*/
+    #team {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .team-photo{
+      margin: 0 50px;
+    }
+    .team-photo-text{
+     margin-right: -5px;
+    }
+
+    /* team part*/
+   /* skill  part*/
+   .skill-overlay {
+	padding-top: 50px;
+	padding-bottom: 50px;
+   }
+   .experience{
+   float: left;
+   }
+
+   .experience-bar {
+	width: 150px;
+	float: right;
+    padding: 1px 3px;
+  }
+  .severals{
+      margin-top: -185px;
+  }
+  .skill-btn a {
+	font-size: 15px;
+	padding: 5px 15px;
+  }
+  .skill-text p {
+	width: 100%;
+     }
+     .contact-text p {
+        width: 100%;
+    }
+   /* skill  part*/
+   /* service */
+   #service {
+	padding-top: 50px;
+	padding-bottom: 50px;
+   }
+
+   .service-content h3 {
+	font-size: 20px;
+    padding-left: 50px;
+   }
+    
+   .service-gap{
+       margin-top: 40px;
+   }
+   .service-text p{
+       width: 100%;
+   }
+   /* service */
+   /* gallery */
+   .gallery-para p {
+	width: 100%;
+    font-size: 15px;
+   }
+   /* gallery */
+    /* portfolio */
+    #portfolio {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .portfolio-content h3 {
+        font-size: 20px;
+    }
+    .portfolio-menu button {
+        padding-right: 9px;
+        padding-top: 15px;
+        padding-bottom: 50px;
+    }
+    .portfoilo-items {
+        margin: 0 auto;
+    }
+    .portfolio-gap-two{
+        margin-top: 40px;
+    }
+
+    #loggo {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    /* portfolio */
+    /* blog */
+    #blog {
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+    .blog-text p {
+        width: 100%;
+    }
+    /* blog */
+    /* contact */
+    .contact-form h3 {
+        padding-bottom: 5px;
+        padding-top: 60px;
+    }
+    .contact-form .box-one {
+        width: 100%;
+    }
+
+    .contact-form .box-two {
+        width: 100%;
+    }
+
+    .contact-form textarea {
+        width: 100%;
+    }
+    .contact-form-btn a {
+        width:100%;
+    }
+    #contact {
+        padding-top: 45px;
+        padding-bottom: 50px;
+    }
+    /* contact */
+
+  }
+ 
+/* apply responsive */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
